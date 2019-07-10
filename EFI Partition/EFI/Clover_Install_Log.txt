@@ -1,0 +1,54 @@
+
+Clover EFI installer log - Wed Jul 10 11:07:55 WIB 2019
+Installer version: v2.4k r4982 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *120.0 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:       Microsoft Basic Data W10                     31.9 GB    disk0s2
+   3: 44479540-F297-41B2-9AF7-D131D5F0458A               26.9 GB    disk0s3
+   4:                 Apple_APFS Container disk2         61.0 GB    disk0s4
+
+/dev/disk1 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *1.0 TB     disk1
+   1:               Windows_NTFS System Reserved         367.0 MB   disk1s1
+   2:               Windows_NTFS WIN7                    47.8 GB    disk1s2
+   3:               Windows_NTFS DATA                    215.0 GB   disk1s5
+   4:               Windows_NTFS DATA2                   215.0 GB   disk1s6
+   5:                      Linux                         22.0 GB    disk1s7
+   6:               Windows_NTFS Temp                    32.0 GB    disk1s8
+   7:               Windows_NTFS EXFAT                   37.7 GB    disk1s9
+
+/dev/disk2 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +61.0 GB    disk2
+                                 Physical Store disk0s4
+   1:                APFS Volume MACOSX                  14.2 GB    disk2s1
+   2:                APFS Volume Preboot                 41.2 MB    disk2s2
+   3:                APFS Volume Recovery                1.0 GB     disk2s3
+   4:                APFS Volume VM                      5.4 GB     disk2s4
+
+Target volume /Volumes/MACOSX on disk2 is APFS on physical store disk0s4
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/MACOSX/EFIROOTDIR/EFI folder to /Volumes/MACOSX/EFI-Backups/r4979/2019-07-10-11h07/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+======================================================
+Installing RC Scripts
+
+Installing RC scripts on target volume '/'
+
+Activating /etc/rc.boot.d/70.disable_sleep_proxy_client.local rc script
+
+Theme 'BGM' (defined in config.plist) not found !
+Using default theme 'embedded'
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
