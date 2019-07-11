@@ -30,27 +30,29 @@ Running Apps on Screenshot :
 
 Installed Apps :
 - <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
-- Clover Theme Manager
-- Clover Configurator
-- DPCI Manager
-- MaciASL
-- PlistEdit
-- SensibleSideButton
-- Google Chrome
-- Google Note
-- XDM
-- xCHM
-- VLC
-- SublimeText
-- VSCode
-- Brew
-- Neofetch
-- Figlet
+- <a href="https://sourceforge.net/projects/cloverefiboot/" target="blank">Clover Theme Manager</a>
+- <a href="https://sourceforge.net/projects/cloverefiboot/" target="blank">Clover Configurator</a>
+- <a href="https://sourceforge.net/projects/dpcimanager/" target="blank">DPCI Manager</a>
+- <a href="https://bitbucket.org/RehabMan/os-x-maciasl-patchmatic/src" target="blank">MaciASL-patchmatic</a>
+- <a href="https://www.fatcatsoftware.com/plisteditpro/" target="blank">PlistEdit</a>
+- <a href="https://sensible-side-buttons.archagon.net" target="blank">SensibleSideButton</a>
+- <a href="https://www.google.com/chrome/" target="blank">Google Chrome</a>
+- <a href="https://keep.google.com/" target="blank">Google Keep</a>
+- <a href="http://xdman.sourceforge.net/" target="blank">XDM</a>
+- <a href="https://sourceforge.net/projects/xchm/" target="blank">xCHM</a>
+- <a href="https://www.videolan.org/vlc/index.html" target="blank">VLC</a>
+- <a href="https://www.sublimetext.com/" target="blank">SublimeText</a>
+- <a href="https://code.visualstudio.com/" target="blank">VSCode</a>
+- <a href="https://brew.sh/" target="blank">Brew</a>
+- <a href="https://github.com/dylanaraps/neofetch" target="blank">Neofetch</a>
+- <a href="http://www.figlet.org/" target="blank">Figlet</a>
 
 Deleted Apps :
 Almost all unneeded apps bawaan installer. :)
 
-Bagi yang ingin mencoba install, mungin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>.
+Bagi yang ingin mencoba install, mungin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access.
+
+Akhir kata, terima kasih kepada semua pihak, baik yang sudah maupun belum atau lupa saya sebutkan. Terutama teman-teman di grup FB Forum Hackintosh Indonesia. Jika ada yang butuh bantuan patch DSDT atau sharing, bisa contact saya.
 
 Feel free to reach me on :
 - https://www.firstplato.com
