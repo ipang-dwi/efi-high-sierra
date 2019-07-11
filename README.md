@@ -28,6 +28,30 @@ Running Apps on Screenshot :
 - <a href="http://www.figlet.org/" target="blank">figlet</a>
 - <a href="https://cmus.github.io/" target="blank">cmus</a>
 
+Installed Apps :
+- <a href="http://cvad-mac.narod.ru/index/0-4" target="blank">Kext Utility</a>
+- Clover Theme Manager
+- Clover Configurator
+- DPCI Manager
+- MaciASL
+- PlistEdit
+- SensibleSideButton
+- Google Chrome
+- Google Note
+- XDM
+- xCHM
+- VLC
+- SublimeText
+- VSCode
+- Brew
+- Neofetch
+- Figlet
+
+Deleted Apps :
+Almost all unneeded apps bawaan installer. :)
+
+Bagi yang ingin mencoba install, mungin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>.
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
