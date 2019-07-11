@@ -22,6 +22,12 @@ Perfect work :
 Didn't work :
 - Realtek card reader, sudah hukum alam. 
 
+Running Apps on Screenshot :
+- Apple terminal
+- <a href="https://github.com/dylanaraps/neofetch" target="blank">neofetch</a>
+- <a href="http://www.figlet.org/" target="blank">figlet</a>
+- <a href="https://cmus.github.io/" target="blank">cmus</a>
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
