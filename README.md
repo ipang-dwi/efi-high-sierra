@@ -44,6 +44,7 @@ Installed Apps :
 - <a href="https://www.sublimetext.com/" target="blank">SublimeText</a>
 - <a href="https://code.visualstudio.com/" target="blank">VSCode</a>
 - <a href="https://brew.sh/" target="blank">Brew</a>
+- <a href="https://git-scm.com/" target="blank">git</a>
 - <a href="https://github.com/dylanaraps/neofetch" target="blank">Neofetch</a>
 - <a href="http://www.figlet.org/" target="blank">Figlet</a>
 
@@ -53,6 +54,8 @@ Almost all unneeded apps bawaan installer. :)
 Bagi yang ingin mencoba install, mungin memiliki Laptop/PC dengan spesifikasi yang hampir sama, bisa baca <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">di sini</a>. Sudah disertai link koleksi Vanilla DMG + Clover, direct access.
 
 Akhir kata, terima kasih kepada semua pihak, baik yang sudah maupun belum atau lupa saya sebutkan. Terutama teman-teman di grup FB Forum Hackintosh Indonesia. Jika ada yang butuh bantuan patch DSDT atau sharing, bisa contact saya.
+
+<img src="https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/xchm.png"/>
 
 Feel free to reach me on :
 - https://www.firstplato.com
