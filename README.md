@@ -7,6 +7,19 @@ Setelah mencoba MacOS Mojave, akhirnya memutuskan untuk turun ke MacOS High Sier
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/2.png"/>
 
+Machine :
+- Brand : Asus
+- Type : X45C
+- BIOS version : 208
+
+Specs :
+- Procie : Intel Core i3-2350M 2.3GHz
+- VGA : Intel HD3000
+- HDD : Toshiba 500GB SATA2 5400RPM, replace with SSD Avexir 120GB SATA3
+- ODD : Panasonic DVD-RW SATA2, replace with HDD HGST 1TB 7200RPM mod HDD Caddy
+- RAM : Micron 2GB DDR3 1333, extended with Samsung 8GB DDR3L 1600
+- Additional : USB Mouse Rexus Xierra X3
+
 Perfect work :
 - VGA : Intel HD3000, native tanpa kext, terdeteksi secara cantik di High Sierra 10.13.6
 - Audio : latest AppleALC.kext + layout-id : 21 by acidanthera. Lancar jaya, auto switch output.
