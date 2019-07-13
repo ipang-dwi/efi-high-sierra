@@ -1,0 +1,2 @@
+Semua kext yang dipakai dalam Hackintosh :
+- IO80211Family.kext oleh Muhammad Arif Isnaini, Grup FB Forum Hackintosh Indonesia. WOOTB
