@@ -60,6 +60,9 @@ Installed Apps :
 - <a href="https://git-scm.com/" target="blank">git</a>
 - <a href="https://github.com/dylanaraps/neofetch" target="blank">Neofetch</a>
 - <a href="http://www.figlet.org/" target="blank">Figlet</a>
+- <a href="https://desktop.github.com/" target="blank">Github Desktop</a>
+- <a href="https://www.keka.io/en/" target="blank">Keka Archiver</a>
+
 
 Deleted Apps :
 Almost all unneeded apps bawaan installer. :)
