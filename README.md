@@ -1,5 +1,5 @@
 # efi-high-sierra
-EFI partition High Sierra for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="blank">Dokumentasi Lengkapnya</a>
+EFI partition High Sierra for Asus X45C - www.firstplato.com - <a href="https://github.com/ipang-dwi/efi-high-sierra/wiki" target="_blank">Dokumentasi Lengkapnya</a>
 
 <img src="https://raw.githubusercontent.com/ipang-dwi/efi-high-sierra/master/ss/0.png"/>
 
