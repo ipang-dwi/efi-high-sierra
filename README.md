@@ -29,7 +29,7 @@ Perfect work :
 - RAM Dual Channel : native tanpa kext, 2GB DDR3 1333 + 8GB DDR3 1600, yang menarik clockspeed yang dipakai yang 1600.
 - Baterai, termasuk indikatornya, shutdown, restart, sleep/hibernate : patch manual referensi dari om Rehabman + latest ACPIBatteryManager.kext
 - Tombol Fn, bekerja normal semua, hanya buat Brightness UP and Down yang gak bisa.
-- Brightness : latest SSDT-PNLF.aml dari om Rehabman, work pakai slider, tombol Fn bingung gak bisa belum coba remapping.
+- Brightness : latest SSDT-PNLF.aml dari om Rehabman, work pakai slider dan Tombol F5 - F6 di-remapping pada keyboard shortcut di System Preferences.
 - USB Mouse 7D : SensibleSideButtons dari om Alexei Baboulevitch, tested lancar jaya USB Mouse Rexus Xierra X3
 
 Didn't work :
