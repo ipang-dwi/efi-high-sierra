@@ -21,7 +21,7 @@ Specs :
 - Additional : USB Mouse Rexus Xierra X3
 
 Perfect work :
-- VGA : Intel HD3000, native tanpa kext, terdeteksi secara cantik di High Sierra 10.13.6. Update Intel HD 3000 VRAM Patch 2GB, <a href="Patch Intel HD 3000 for VRAM allocation on MacOSX ">di sini</a>.
+- VGA : Intel HD3000, native tanpa kext, terdeteksi secara cantik di High Sierra 10.13.6. Update Intel HD 3000 VRAM 2GB, patchnya <a href="Patch Intel HD 3000 for VRAM allocation on MacOSX ">di sini</a>.
 - Audio : latest AppleALC.kext + layout-id : 21 by acidanthera. Lancar jaya, auto switch output.
 - Camera / USB 2.0 Asus Webcam : latest USBInjectAll.kext by Rehabman.
 - LAN Realtek RTL8411 : RealtekRTL8111.kext by Rehabman.
